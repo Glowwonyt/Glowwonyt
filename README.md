@@ -4,3 +4,8 @@
 - 💞️ I'm looking for clients who are interested in my work and want me to work for them
 - 📫 How to reach me : I have a discord  : Gloww#2186
 
+# Contact me📧
+[![](https://discord.c99.nl/widget/theme-4/732532528568729630.png)](https://discord.gg/brsaUQM4kK)
+
+# Latest Update
+Check projects for more info
