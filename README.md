@@ -9,3 +9,8 @@
 
 # Latest Update
 Check projects for more info
+
+
+# Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowwonyt)]
