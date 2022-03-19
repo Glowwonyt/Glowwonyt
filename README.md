@@ -13,5 +13,6 @@ Check projects for more info
 
 # Stats
 
-![Gloww's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Gloww's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glowwonyt&show_icons=true&theme=dark)
+<br>
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowwonyt&theme=dark)
