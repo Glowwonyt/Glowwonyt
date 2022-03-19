@@ -13,4 +13,5 @@ Check projects for more info
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowwonyt)]
+![Gloww's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowwonyt&theme=dark)
