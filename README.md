@@ -2,11 +2,11 @@
 <h2>About Me</h2>
 I am a passionate web developer with expertise in HTML, CSS, and JavaScript. I am proficient in Flask and Jinja, and have experience in developing and designing responsive websites. Additionally, I am familiar with Python and have worked on various projects using it.
 
-Skills
--> HTML
--> CSS
--> JavaScript
--> Python
+Skills \n
+-> HTML\n
+-> CSS \n
+-> JavaScript\n
+-> Python\n
    - Flask
    - Jinja
    - discord.py
