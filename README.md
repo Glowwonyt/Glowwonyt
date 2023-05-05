@@ -16,12 +16,12 @@ Skills
 <h2>Recipe Website</h2>
 I created a recipe website design using HTML, CSS, and JavaScript. This is just to showcase how I design things in dark mode.
 
-GitHub repository: 
+GitHub repository: [[link to the repository here]](https://github.com/Glowwonyt/RecipeDesign)
 
 <h2>Discord Chatbot</h2>
 A chatbot which works in discord, I made the readme file for all details
 
-GitHub repository: [link to the repository]
+GitHub repository: [[link to the repository here]](https://github.com/Glowwonyt/ChatBot)
 
 <h2>W.I.P</h2>
 I am currently making a website using flask and HTML, CSS and JS
